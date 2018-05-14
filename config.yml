@@ -1,0 +1,13 @@
+app:
+  name: goLogs
+  port: 18001
+
+db:
+    name:     test
+    user:     test
+    password: test
+    port:     1234
+
+contacts:
+- name: i test
+  email: test@test.com
